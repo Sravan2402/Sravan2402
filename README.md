@@ -17,10 +17,6 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 
 🚀 Passionate about Full Stack Development, Backend Engineering, and System Design
 
-🧩 Solved **350+ DSA problems** on LeetCode & CodeChef
-
-🌱 Currently building **Blood Link**, a MERN-based Blood Donation & Emergency Assistance Platform
-
 🤝 Open to **Software Engineering Internships**, **Open Source Contributions**, and **Collaborations**
 
 ---
