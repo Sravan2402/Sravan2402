@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sravan Kumar</h1>
 
-<h3 align="center">
-B.Tech CSE Student | MERN Stack Developer | Open Source Enthusiast
-</h3>
+<h3 align="center">🚀 B.Tech CSE Student | MERN Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
+I'm a passionate MERN Stack Developer focused on building scalable, user-centric web applications and transforming ideas into impactful digital solutions. I enjoy writing clean, maintainable code, solving complex problems, and continuously learning modern technologies. With strong analytical thinking, teamwork, communication, adaptability, and a growth mindset, I strive to build software that creates meaningful real-world impact.
 </p>
 
 <p align="center">
