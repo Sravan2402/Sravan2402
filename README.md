@@ -111,6 +111,7 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 ## 🎬 FilmiQ – Movie Recommendation System
 
 🔗 Repository: https://github.com/Sravan2402/movie-recommendation
+
 🌐 Live Demo: https://filmiq.netlify.app/
 
 **Tech Stack**
@@ -145,9 +146,13 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 # 🏅 Achievements
 
 🏆 Solved **350+ DSA Problems** on LeetCode & CodeChef
+
 ☕ Participated in Oracle Academy Java Webinar on AI Fundamentals
+
 🚀 Google for Startups – Prompt to Prototype Certified
+
 💻 Built and deployed multiple full-stack web applications using the MERN stack
+
 ---
 
 # 🌐 Connect with Me
