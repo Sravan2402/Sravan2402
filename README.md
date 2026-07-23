@@ -6,10 +6,6 @@
 I'm a passionate MERN Stack Developer who enjoys building scalable web applications, solving real-world problems, and continuously learning modern technologies. I value teamwork, communication, and writing clean, maintainable code
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sravan2402&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 # 🚀 About Me
