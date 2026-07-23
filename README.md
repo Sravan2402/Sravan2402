@@ -43,6 +43,8 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
 
+---
+
 # 🚀 Featured Projects
 
 ## 🩸 Blood Link (Current Major Project) 🚧
