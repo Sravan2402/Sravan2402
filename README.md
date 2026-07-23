@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sravan Kumar</h1>
+<h1 align="left">Hi 👋, I'm Sravan Kumar</h1>
 
-<h3 align="center">🚀 B.Tech CSE Student | MERN Stack Developer | Open Source Enthusiast</h3>
+<h3 align="left">🚀 B.Tech CSE Student | MERN Stack Developer | Open Source Enthusiast</h3>
 
-<p align="center">
+<p align="left">
 I'm a passionate MERN Stack Developer who enjoys building scalable web applications, solving real-world problems, and continuously learning modern technologies. I value teamwork, communication, and writing clean, maintainable code
 </p>
 
