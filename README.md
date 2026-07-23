@@ -13,29 +13,40 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 ---
 
 # 🚀 About Me
-
 🎓 B.Tech in Computer Science Engineering (2023–2027)
-
 💻 MERN Stack Developer specializing in MongoDB, Express.js, React.js, and Node.js
-
 ☕ Proficient in Java and JavaScript
-
 🚀 Passionate about Full Stack Development, Backend Engineering, and System Design
-
 🧩 Solved **350+ DSA problems** on LeetCode & CodeChef
-
 🌱 Currently building **Blood Link**, a MERN-based Blood Donation & Emergency Assistance Platform
-
 🤝 Open to **Software Engineering Internships**, **Open Source Contributions**, and **Collaborations**
 
 ---
 
 # 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,postgres,mysql,redis,tailwind,git,github,vscode,postman&theme=dark"/>
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
 </p>
----
 
 # 🚀 Featured Projects
 
@@ -83,24 +94,20 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 🌐 Live Demo: https://deskmate-connect.netlify.app/login
 
 **Tech Stack**
-
 - React.js
 - Node.js
 - PostgreSQL
 - Redis
 - Socket.io
 - RobotJS
-
 ---
 
 ## 🎬 FilmiQ – Movie Recommendation System
 
 🔗 Repository: https://github.com/Sravan2402/movie-recommendation
-
 🌐 Live Demo: https://filmiq.netlify.app/
 
 **Tech Stack**
-
 - React.js
 - JavaScript
 - Tailwind CSS
@@ -110,15 +117,12 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 ---
 
 ## 🎨 AI Image Generator
-
 🔗 Repository: https://github.com/Sravan2402/Image-generator
 
 **Tech Stack**
-
 - React.js
 - Node.js
 - AI API
-
 ---
 
 # 🏆 Certifications
@@ -135,13 +139,9 @@ I'm a passionate MERN Stack Developer who enjoys building scalable web applicati
 # 🏅 Achievements
 
 🏆 Solved **350+ DSA Problems** on LeetCode & CodeChef
-
 ☕ Participated in Oracle Academy Java Webinar on AI Fundamentals
-
 🚀 Google for Startups – Prompt to Prototype Certified
-
 💻 Built and deployed multiple full-stack web applications using the MERN stack
-
 ---
 
 # 🌐 Connect with Me
