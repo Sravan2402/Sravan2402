@@ -175,20 +175,6 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sravan2402&show_icons=true&theme=github_dark" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravan2402&layout=compact&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sravan2402&theme=github-dark"/>
-</p>
-
----
-
 # 🌐 Connect with Me
 
 <p align="left">
